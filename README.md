@@ -1,18 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 📝 To-Do List Web App
 
-## Getting Started
+A modern and responsive **To-Do List Application** built with **Next.js**, **React**, and **Tailwind CSS**.  
+This app allows users to create, manage, and track their daily tasks efficiently with a clean and minimal UI.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+##  Features
+-  Add, edit, and delete tasks in real-time  
+-  Task persistence using local storage  
+-  Fully responsive design (mobile-friendly)  
+-  Built with Next.js App Router and Tailwind CSS  
+-  Clean and accessible UI
+
+---
+
+## 🧠 Tech Stack
+- **Frontend:** React.js, Next.js 14+, Tailwind CSS  
+- **State Management:** useState / useEffect  
+- **Build Tool:** Vite / Next.js built-in  
+- **Deployment:** Vercel  
+
+---
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
